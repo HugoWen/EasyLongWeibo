@@ -1,0 +1,81 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/titleRelativeLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:background="#CCCCCC">
+
+        <TextView
+            android:id="@+id/titleText"
+            android:layout_width="150dp"
+            android:layout_height="fill_parent"
+            android:layout_alignParentTop="true"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="@string/app_name"
+            android:textColor="#000000" />
+        <Button
+            android:id="@+id/btnabout"
+            android:layout_width="69dp"
+            android:layout_height="fill_parent"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:background="#6CA6CD"
+            android:gravity="center"
+            android:text="@string/main_settingBtn"/>
+    </RelativeLayout>
+    
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/titleRelativeLayout"
+        android:layout_above="@+id/bottomLinearLayout"
+        android:background="#EBEBEB"
+        android:gravity="top"
+        android:hint="@string/main_EditTextHint"
+        android:inputType="textMultiLine" />
+
+    <LinearLayout
+        android:id="@+id/bottomLinearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"        
+        android:background="#CCCCCC"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btnClear"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="20"
+            android:background="#6CA6CD"
+            android:text="@string/main_clear"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/textNumber"
+            android:layout_width="65dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="0"/>
+
+        <Button
+            android:id="@+id/btnOk"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="20"
+            android:background="#6CA6CD"
+            android:text="@string/main_ok"
+            android:textSize="20dp" />
+
+    </LinearLayout>
+        
+</RelativeLayout>

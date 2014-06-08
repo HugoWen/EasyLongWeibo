@@ -1,0 +1,136 @@
+<resources>
+    
+    <!-- fontsize -->
+    <string-array name="fontsize">
+        <item>Normal</item>
+		<item>More fonts will be launched in the next version</item>
+
+    </string-array>
+    
+    <!-- fontsize_values -->
+    <string-array name="fontsize_values">
+
+        <item>30</item>
+        <item>30</item>
+
+    </string-array>
+    
+    <!-- fontstyle -->
+    <string-array name="fontstyle">
+        <item>DEFAULT</item>
+        <item>DEFAULT_BOLD</item>
+        <item>MONOSPACE</item>
+        <item>SANS_SERIF</item>
+        <item>SERIF</item>
+    </string-array>
+    
+    <!-- fontstyle_values -->
+    <string-array name="fontstyle_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    
+    <!-- fontcolor -->
+    <string-array name="fontcolor">
+        <item>rouge</item>
+        <item>ivory white</item>
+        <item>blue green</item>
+        <item>deep purple</item>
+        <item>light tan</item>
+        <item>bronze mist</item>
+        <item>indigo blue</item>
+        <item>tu white</item>
+        <item>Crow Green</item>
+        <item>Sandalwood</item>
+        <item>scarlet</item>
+        <item>brick red</item>
+        <item>aqua</item>
+        <item>flame</item>
+        <item>imperial concubine</item>
+        <item>dust</item>
+        <item>wormwood</item>
+        <item>black blue</item>
+        <item>bluish white</item>
+        <item>black</item>
+        <item>white</item>
+    </string-array>
+    
+    <!-- fontcolor_values -->
+    <string-array name="fontcolor_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+    
+    <!-- backgroundcolor -->
+    <string-array name="backgroundcolor">
+        <item>rouge</item>
+        <item>ivory white</item>
+        <item>blue green</item>
+        <item>deep purple</item>
+        <item>light tan</item>
+        <item>bronze mist</item>
+        <item>indigo blue</item>
+        <item>tu white</item>
+        <item>Crow Green</item>
+        <item>Sandalwood</item>
+        <item>scarlet</item>
+        <item>brick red</item>
+        <item>aqua</item>
+        <item>flame</item>
+        <item>imperial concubine</item>
+        <item>dust</item>
+        <item>wormwood</item>
+        <item>black blue</item>
+        <item>bluish white</item>
+        <item>black</item>
+        <item>white</item>
+    </string-array>
+    
+    <!-- backgroundcolor_values -->
+    <string-array name="backgroundcolor_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+    
+</resources>

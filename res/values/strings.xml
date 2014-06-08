@@ -1,0 +1,76 @@
+<resources>
+
+    <string name="app_name">Easy Long Microblog</string>
+    <string name="menu_about">About</string>
+    <string name="menu_setting">Settings</string>
+    <string name="menu_updateinfo">Update Infomation</string>
+    <string name="menu_helpinfo">Help</string>
+    <string name="title_activity_main">Easy Long Microblog</string>
+    
+    <!-- setting.xml -->
+    <string name="setting_fontsize_title">Text Size</string>
+    <string name="setting_fontsize_summary">Set Text Size</string>
+    <string name="setting_fontsize_dialogTitle">Choose Text Size</string>
+    <string name="setting_fontstyle_title">FontFormat </string>
+    <string name="setting_fontstyle_summary">Set FontFormat </string>
+    <string name="setting_fontstyle_dialogTitle">Choose FontFormat</string>
+    <string name="setting_fontcolor_title">Text Color</string>
+    <string name="setting_fontcolor_summary">Set Text Color</string>
+    <string name="setting_fontcolor_dialogTitle">Choose Text Color</string>
+    <string name="setting_backgroundcolor_title">Background Color</string>
+    <string name="setting_backgroundcolor_summary">Set Background Color</string>
+    <string name="setting_backgroundcolor_dialogTitle">Choose Background Color</string>
+    <string name="setting_aboutIntent_title">About</string>
+    <string name="setting_aboutIntent_summaray">About</string>
+    
+    <!-- main.xml-->
+    <string name="main_settingBtn">Settings 》</string>
+    <string name="main_aboutTitle">ABOUT</string>
+    <string name="main_EditTextHint">Input the text here......</string>
+    <string name="main_clear">Clear</string>
+    <string name="main_ok">OK</string>
+    
+    <!-- about.xml-->
+    <string name="about_returnBtn">《 Return</string>
+    <string name="about_helpBtn">Help 》</string>
+    <string name="about_versionName">Version Number:Android 2.0</string>
+    <string name="about_notice">
+                If you have any questions or suggestions, 
+                please send the message to our official microblog or send emails to us, 
+                thank you very much!
+        </string>
+    <string name="about_followBtn">Official Microblog</string>
+    <string name="about_sendEmailBtn">Send Email</string>
+    
+    
+    <!-- help.xml-->
+    <string name="help_returnBtn">《 Return</string>
+    <string name="help_title">HELP</string>
+    <string name="help_step">STEP</string>
+    <string name="help_info">
+       \t 1、Set the style of your long microblog as you like.\n
+       \t 2、Input the text that you will publich.\n
+       \t 3、Click the "OK" button to preview your long microblog , save it in your phone or just share it.        
+        </string>
+    <string name="help_update">Update Content</string>
+    <string name="help_updeteInfo">        
+        \t 1、user-defined theme.\n
+        \t 2、Multi-language support.\n
+        \t 3、 Word Count.\n
+        \t 4、Optimization of the display.\n
+        \t 5、Optimize storage path.\n
+        \t 5、New feedback mode.\n
+        
+    </string>
+        
+    <!-- MainActivity.java-->
+    <string name="MainActivity_isnullToast">Sorry! Long microblog content can not be empty!</string>
+    <string name="MainActivity_AlertDialog_functionSelect">Function Selection</string>    
+    <string name="MainActivity_AlertDialog_saveHere">Save to the local</string>
+    <string name="MainActivity_AlertDialog_preview">Preview long microblog</string>
+    <string name="MainActivity_AlertDialog_share">Share long microblog</string>
+    <string name="MainActivity_AlertDialog_cancle">Cancle</string>    
+    <string name="MainActivity_AlertDialog_autographText">Released by Android 【Easy Long Microblog】</string>
+    <string name="MainActivity_AlertDialog_autographUrl">【weibo.com/happytutor】</string>
+
+</resources>

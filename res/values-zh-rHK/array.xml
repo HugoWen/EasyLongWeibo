@@ -1,0 +1,133 @@
+<resources>
+    
+    <!-- fontsize -->
+    <string-array name="fontsize">
+        <item>Normal</item>
+		<item>更多字體將在下一版本推出</item>
+    </string-array>
+    
+    <!-- fontsize_values -->
+    <string-array name="fontsize_values">
+        <item>30</item>
+        <item>30</item>
+    </string-array>
+    
+    <!-- fontstyle -->
+    <string-array name="fontstyle">
+        <item>默認</item>
+        <item>默認加粗</item>
+        <item>等寬</item>
+        <item>無襯線</item>
+        <item>襯線</item>
+    </string-array>
+    
+    <!-- fontstyle_values -->
+    <string-array name="fontstyle_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    
+    <!-- fontcolor -->
+    <string-array name="fontcolor">
+        <item>胭脂</item>
+        <item>牙白</item>
+        <item>竹青</item>
+        <item>黛</item>
+        <item>駝色</item>
+        <item>秋香色</item>
+        <item>靛青</item>
+        <item>荼白</item>
+        <item>鴉青</item>
+        <item>檀</item>
+        <item>赤</item>
+        <item>綰</item>
+        <item>水綠</item>
+        <item>炎</item>
+        <item>妃色</item>
+        <item>黎</item>
+        <item>艾青</item>
+        <item>黛藍</item>
+        <item>月白</item>
+        <item>純黑</item>
+        <item>純白</item>
+    </string-array>
+    
+    <!-- fontcolor_values -->
+    <string-array name="fontcolor_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+    
+    <!-- backgroundcolor -->
+    <string-array name="backgroundcolor">
+        <item>胭脂</item>
+        <item>牙白</item>
+        <item>竹青</item>
+        <item>黛</item>
+        <item>駝色</item>
+        <item>秋香色</item>
+        <item>靛青</item>
+        <item>荼白</item>
+        <item>鴉青</item>
+        <item>檀</item>
+        <item>赤</item>
+        <item>綰</item>
+        <item>水綠</item>
+        <item>炎</item>
+        <item>妃色</item>
+        <item>黎</item>
+        <item>艾青</item>
+        <item>黛藍</item>
+        <item>月白</item>
+        <item>純黑</item>
+        <item>純白</item>
+    </string-array>
+    
+    <!-- backgroundcolor_values -->
+    <string-array name="backgroundcolor_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+    
+</resources>

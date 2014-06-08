@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">长微博轻松发</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_setting">设置</string>
+    <string name="menu_updateinfo">更新内容</string>
+    <string name="menu_helpinfo">帮助</string>
+    <string name="title_activity_main">长微博轻松发</string>
+    
+    <!-- setting.xml -->
+    <string name="setting_fontsize_title">字体大小</string>
+    <string name="setting_fontsize_summary">设置长微博字体大小</string>
+    <string name="setting_fontsize_dialogTitle">输入字体大小</string>
+    <string name="setting_fontstyle_title">字体格式</string>
+    <string name="setting_fontstyle_summary">设置长微博字体格式</string>
+    <string name="setting_fontstyle_dialogTitle">选择字体格式</string>
+    <string name="setting_fontcolor_title">字体颜色</string>
+    <string name="setting_fontcolor_summary">设置长微博字体颜色</string>
+    <string name="setting_fontcolor_dialogTitle">选择字体颜色</string>
+    <string name="setting_backgroundcolor_title">背景颜色</string>
+    <string name="setting_backgroundcolor_summary">设置长微博背景颜色</string>
+    <string name="setting_backgroundcolor_dialogTitle">选择背景颜色</string>
+    <string name="setting_aboutIntent_title">关于</string>
+    <string name="setting_aboutIntent_summaray">关于</string>
+
+    
+    <!-- main.xml-->
+    <string name="main_settingBtn">设置 》</string>
+    <string name="main_aboutTitle">关于</string>
+    <string name="main_EditTextHint">在此输入要发表的文字......</string>
+    <string name="main_clear">清  除</string>
+    <string name="main_ok">确  定</string>
+    
+    <!-- about.xml-->
+    <string name="about_returnBtn">《 返回</string>
+    <string name="about_helpBtn">帮助 》</string>
+    <string name="about_versionName">Android 2.0版</string>
+    <string name="about_notice">
+        如果您在使用中有任何问题或者建议，请给我们官方微博留言或者给我们发送邮件，谢谢！
+        </string>
+    <string name="about_followBtn">关注官方微博</string>
+    <string name="about_sendEmailBtn">发送邮件</string>
+    
+    <!-- help.xml-->
+    <string name="help_returnBtn">《 返回</string>
+    <string name="help_title">帮助</string>
+    <string name="help_step">使用步骤</string>
+    <string name="help_info">
+        \t 1、设置您喜欢的长微博样式；\n
+        \t 2、输入您将要发布的内容；\n
+        \t 3、点击“确认”按钮，预览生成的长微博、保存长微博到本地或者发布长微博；\n
+    </string>
+    <string name="help_update">更新内容</string>
+    <string name="help_updeteInfo">     
+        \t 1、大幅优化文字处理性能.\n   
+        \t 2、支持自定义主题.\n
+        \t 3、增加字数统计功能.\n
+        \t 4、优化布局显示.\n
+        \t 5、优化存储路径.\n
+        \t 6、增加意见反馈方式.\n
+    </string>    
+     
+    <!-- MainActivity.java-->
+    <string name="MainActivity_isnullToast">长微博内容不能为空！</string>    
+    <string name="MainActivity_AlertDialog_functionSelect">功能选择</string>    
+    <string name="MainActivity_AlertDialog_saveHere">保存长微博到本地</string>
+    <string name="MainActivity_AlertDialog_preview">预览长微博</string>
+    <string name="MainActivity_AlertDialog_share">分享长微博</string>
+    <string name="MainActivity_AlertDialog_cancle">取消</string>
+    
+    <string name="MainActivity_AlertDialog_autographText">通过安卓版【长微博轻松发】工具发布</string>
+    <string name="MainActivity_AlertDialog_autographUrl">【weibo.com/happytutor】</string>
+
+</resources>

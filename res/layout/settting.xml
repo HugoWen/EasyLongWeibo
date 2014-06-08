@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <ListPreference
+        android:key="fontsize"
+        android:title="@string/setting_fontsize_title"
+        android:dialogTitle="@string/setting_fontsize_dialogTitle"
+        android:summary="@string/setting_fontsize_summary"
+        android:entries="@array/fontsize"
+        android:entryValues="@array/fontsize_values"
+        />
+        
+    <ListPreference
+        android:key="fontstyle"
+        android:title="@string/setting_fontstyle_title"
+        android:dialogTitle="@string/setting_fontstyle_dialogTitle"
+        android:summary="@string/setting_fontstyle_summary"	
+        android:entries="@array/fontstyle"
+        android:entryValues="@array/fontstyle_values"  />
+    
+    <ListPreference
+        android:key="fontcolor"
+        android:title="@string/setting_fontcolor_title"
+        android:dialogTitle="@string/setting_fontcolor_dialogTitle"
+        android:summary="@string/setting_fontcolor_summary"	
+        android:entries="@array/fontcolor"
+        android:entryValues="@array/fontcolor_values"  />
+    
+    <ListPreference
+        android:key="backgroundcolor"
+        android:title="@string/setting_backgroundcolor_title"
+        android:dialogTitle="@string/setting_backgroundcolor_dialogTitle"
+        android:summary="@string/setting_backgroundcolor_summary"
+        android:entries="@array/backgroundcolor"	
+        android:entryValues="@array/backgroundcolor_values"  />
+    
+    <PreferenceScreen
+        android:key="aboutIntent"
+        android:title="@string/setting_aboutIntent_title"
+        android:summary="@string/setting_aboutIntent_summaray" >
+        <intent
+        	android:action="android.intent.action.MAIN"
+        	android:targetPackage="com.tutor.easychangweibo"
+        	android:targetClass="com.tutor.easychangweibo.aboutActivity"  />
+    </PreferenceScreen>
+        
+</PreferenceScreen>
+   
