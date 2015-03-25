@@ -15,7 +15,6 @@ import android.widget.Button;
 
 /**
  * 关于
- * @author wenhan
  */
 @SuppressLint({ "ParserError", "ParserError", "ParserError", "ParserError" })
 public class aboutActivity extends Activity{

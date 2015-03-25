@@ -113,43 +113,43 @@ public final class R {
         public static final int main=0x7f070000;
     }
     public static final class string {
-        public static final int MainActivity_AlertDialog_autographText=0x7f05002c;
-        public static final int MainActivity_AlertDialog_autographUrl=0x7f05002d;
-        public static final int MainActivity_AlertDialog_cancle=0x7f05002b;
-        public static final int MainActivity_AlertDialog_functionSelect=0x7f050027;
-        public static final int MainActivity_AlertDialog_preview=0x7f050029;
-        public static final int MainActivity_AlertDialog_saveHere=0x7f050028;
-        public static final int MainActivity_AlertDialog_share=0x7f05002a;
+        public static final int MainActivity_AlertDialog_autographText=0x7f05002b;
+        public static final int MainActivity_AlertDialog_autographUrl=0x7f05002c;
+        public static final int MainActivity_AlertDialog_cancle=0x7f05002a;
+        public static final int MainActivity_AlertDialog_functionSelect=0x7f050026;
+        public static final int MainActivity_AlertDialog_preview=0x7f050028;
+        public static final int MainActivity_AlertDialog_saveHere=0x7f050027;
+        public static final int MainActivity_AlertDialog_share=0x7f050029;
         /**  MainActivity.java
  MainActivity.java
  MainActivity.java
  MainActivity.java
          */
-        public static final int MainActivity_isnullToast=0x7f050026;
-        public static final int about_followBtn=0x7f05001e;
-        public static final int about_helpBtn=0x7f05001b;
-        public static final int about_notice=0x7f05001d;
+        public static final int MainActivity_isnullToast=0x7f050025;
+        public static final int about_followBtn=0x7f05001d;
+        public static final int about_helpBtn=0x7f050015;
+        public static final int about_notice=0x7f05001c;
         /**  about.xml
  about.xml
  about.xml
  about.xml
          */
         public static final int about_returnBtn=0x7f05001a;
-        public static final int about_sendEmailBtn=0x7f05001f;
-        public static final int about_versionName=0x7f05001c;
+        public static final int about_sendEmailBtn=0x7f05001e;
+        public static final int about_versionName=0x7f05001b;
         public static final int app_name=0x7f050000;
-        public static final int hello_world=0x7f050001;
-        public static final int help_info=0x7f050023;
+        public static final int hello_world=0x7f05002d;
+        public static final int help_info=0x7f050022;
         /**  help.xml
  help.xml
  help.xml
  help.xml
          */
-        public static final int help_returnBtn=0x7f050020;
-        public static final int help_step=0x7f050022;
-        public static final int help_title=0x7f050021;
-        public static final int help_update=0x7f050024;
-        public static final int help_updeteInfo=0x7f050025;
+        public static final int help_returnBtn=0x7f05001f;
+        public static final int help_step=0x7f050021;
+        public static final int help_title=0x7f050020;
+        public static final int help_update=0x7f050023;
+        public static final int help_updeteInfo=0x7f050024;
         public static final int main_EditTextHint=0x7f050017;
         public static final int main_aboutTitle=0x7f050016;
         public static final int main_clear=0x7f050018;
@@ -159,31 +159,31 @@ public final class R {
  main.xml
  main.xml
          */
-        public static final int main_settingBtn=0x7f050015;
-        public static final int menu_about=0x7f050002;
-        public static final int menu_helpinfo=0x7f050005;
-        public static final int menu_setting=0x7f050003;
-        public static final int menu_updateinfo=0x7f050004;
+        public static final int main_settingBtn=0x7f050014;
+        public static final int menu_about=0x7f050001;
+        public static final int menu_helpinfo=0x7f050004;
+        public static final int menu_setting=0x7f050002;
+        public static final int menu_updateinfo=0x7f050003;
         public static final int setting_aboutIntent_summaray=0x7f050013;
-        public static final int setting_aboutIntent_title=0x7f050014;
-        public static final int setting_backgroundcolor_dialogTitle=0x7f050012;
-        public static final int setting_backgroundcolor_summary=0x7f050011;
-        public static final int setting_backgroundcolor_title=0x7f050010;
-        public static final int setting_fontcolor_dialogTitle=0x7f05000f;
-        public static final int setting_fontcolor_summary=0x7f05000e;
-        public static final int setting_fontcolor_title=0x7f05000d;
-        public static final int setting_fontsize_dialogTitle=0x7f050009;
-        public static final int setting_fontsize_summary=0x7f050008;
+        public static final int setting_aboutIntent_title=0x7f050012;
+        public static final int setting_backgroundcolor_dialogTitle=0x7f050011;
+        public static final int setting_backgroundcolor_summary=0x7f050010;
+        public static final int setting_backgroundcolor_title=0x7f05000f;
+        public static final int setting_fontcolor_dialogTitle=0x7f05000e;
+        public static final int setting_fontcolor_summary=0x7f05000d;
+        public static final int setting_fontcolor_title=0x7f05000c;
+        public static final int setting_fontsize_dialogTitle=0x7f050008;
+        public static final int setting_fontsize_summary=0x7f050007;
         /**  setting.xml 
  setting.xml 
  setting.xml 
  setting.xml 
          */
-        public static final int setting_fontsize_title=0x7f050007;
-        public static final int setting_fontstyle_dialogTitle=0x7f05000c;
-        public static final int setting_fontstyle_summary=0x7f05000b;
-        public static final int setting_fontstyle_title=0x7f05000a;
-        public static final int title_activity_main=0x7f050006;
+        public static final int setting_fontsize_title=0x7f050006;
+        public static final int setting_fontstyle_dialogTitle=0x7f05000b;
+        public static final int setting_fontstyle_summary=0x7f05000a;
+        public static final int setting_fontstyle_title=0x7f050009;
+        public static final int title_activity_main=0x7f050005;
     }
     public static final class style {
         public static final int AppTheme=0x7f060000;

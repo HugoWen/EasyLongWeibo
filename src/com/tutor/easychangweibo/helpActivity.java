@@ -5,7 +5,6 @@ import android.os.Bundle;
 
 /**
  * 帮助内容显示
- * @author wenhan
  *
  */
 public class helpActivity extends Activity{
